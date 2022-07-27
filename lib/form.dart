@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:sports_arm/acedemy_data.dart';
 import 'package:sports_arm/item_widget.dart';
 
-class Forms extends StatefulWidget {
+class Forms extends StatefulWidget { 
   Forms(this._set);
   final Function _set;
   @override
